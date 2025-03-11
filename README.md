@@ -1,4 +1,4 @@
-# **Registered Deaths Dashboard in Chile During 2020**  
+# **Registered Deaths in Chile During 2020**  
 
 ## **Project Description**  
 This project is an interactive dashboard created in Power BI that visualizes registered deaths in Chile during 2020, with a particular focus on statistics related to the COVID-19 pandemic. The dashboard includes:  
